@@ -23,7 +23,9 @@ Inspired by the [Awesome First PR Opportunities](https://github.com/MunGell/awes
 ## Contributing to this list
 
 If you'd like to add an item, please provide a brief description what non-programmers can do and how can they contribute to that project. Include a link directly to the page that explains how and what to contribute.
-
+##This is the best resource to get started with learning music 
+heres the link
+'https://www.libertyparkmusic.com/8-tips-to-learn-music-as-an-adult/'
 
 ## License
 
